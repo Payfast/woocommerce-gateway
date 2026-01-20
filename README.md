@@ -9,7 +9,7 @@ support@payfast.io should you require any assistance.
 
 1. **Download the Plugin**
 
-    - Visit the [releases page](https://github.com/Paygate/PayWeb_WooCommerce/releases) and
+    - Visit the [releases page](https://github.com/Payfast/woocommerce_gateway/releases) and
       download [paygate-payweb-for-woocommerce.zip](https://github.com/Payfast/woocommerce_gateway/releases/download/v1.7.0/paygate-payweb-for-woocommerce.zip).
 
 2. **Install the Plugin**
