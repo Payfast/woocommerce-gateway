@@ -30,7 +30,7 @@ We do recommend obtaining an SSL certificate to allow an additional layer of saf
 
 = Where can I find API documentation? =
 
-For help setting up and configuring the Payfast Gateway plugin, please refer to our [user guide](https://github.com/Payfast/woocommerce_gateway).
+For help setting up and configuring the Payfast Gateway plugin, please refer to our [user guide](https://github.com/Payfast/woocommerce-gateway).
 
 = I need some assistance. Whom can I contact? =
 
@@ -80,7 +80,7 @@ Need help to configure this plugin? Feel free to connect with our Payfast Suppor
  * Fix multi-domain multisite network activation.
  * Fix invalid checksum message if order is already paid.
 
-[See changelog for all versions](https://raw.githubusercontent.com/Payfast/woocommerce_gateway/master/CHANGELOG.md).
+[See changelog for all versions](https://raw.githubusercontent.com/Payfast/woocommerce-gateway/master/CHANGELOG.md).
 
 == Upgrade Notice ==
 = 1.5.0 - 2024-12-10 =
