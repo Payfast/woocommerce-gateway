@@ -1,4 +1,4 @@
-# woocommerce_gateway
+# woocommerce-gateway
 
 ## Payfast Gateway module v1.7.0 for WooCommerce v10.2.2
 
@@ -9,8 +9,8 @@ support@payfast.io should you require any assistance.
 
 1. **Download the Plugin**
 
-    - Visit the [releases page](https://github.com/Payfast/woocommerce_gateway/releases) and
-      download [paygate-payweb-for-woocommerce.zip](https://github.com/Payfast/woocommerce_gateway/releases/download/v1.7.0/paygate-payweb-for-woocommerce.zip).
+    - Visit the [releases page](https://github.com/Payfast/woocommerce-gateway/releases) and
+      download [paygate-payweb-for-woocommerce.zip](https://github.com/Payfast/woocommerce-gateway/releases/download/v1.7.0/paygate-payweb-for-woocommerce.zip).
 
 2. **Install the Plugin**
 
